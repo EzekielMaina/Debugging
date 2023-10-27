@@ -1,1 +1,2 @@
-# portfolio
+# Debugging
+practicing my debugging skills.
